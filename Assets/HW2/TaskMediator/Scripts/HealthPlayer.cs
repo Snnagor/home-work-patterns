@@ -7,11 +7,12 @@ namespace HW2.TaskMediator
     {
         public event Action DeathEvent;
         
-        private int _maxHealth;
         public int MaxHealth => _maxHealth;
+        public int CurrentHealth => _currentHealth;
+        
+        private int _maxHealth;
         private int _dmg;
         private int _currentHealth;
-        public int CurrentHealth => _currentHealth;
         private bool _isAlive;
 
         public void SetLevel(int maxHealth, int dmg)

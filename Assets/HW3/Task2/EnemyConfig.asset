@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 334f18ab2f8d4dbfaad9e352d5df507d, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  <ElfConfig>k__BackingField:
+    <ElfPaladinPrefab>k__BackingField: {fileID: -8391908767547375650, guid: baeacb49eac34c845a0eaa9898b60bef, type: 3}
+    <ElfMagePrefab>k__BackingField: {fileID: 8100817511865466323, guid: 7778385a1c6b90943af0aade815e12b6, type: 3}
+    <LifeTime>k__BackingField: 2
+  <OrcConfig>k__BackingField:
+    <OrcPaladinPrefab>k__BackingField: {fileID: -1503003262356361821, guid: 70b488c310c96a54abd2f0a0ce38ac1e, type: 3}
+    <OrcMagePrefab>k__BackingField: {fileID: -478248840012636213, guid: f4d767467331f634ea26be6ff2608c34, type: 3}
+    <LifeTime>k__BackingField: 2
