@@ -40,7 +40,5 @@ namespace HW3.Task4
 
             public void Visit(Orc orc) => Weight += 100;
         }
-
-        
     }
 }
