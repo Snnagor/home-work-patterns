@@ -552,10 +552,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1064291078}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e3dae3a0bc644498caf289b335b5b12, type: 3}
+  m_Script: {fileID: 11500000, guid: c7a5210cea7bdf14abd61b6f70bff61f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _coinPrefab: {fileID: 3695644974781022102, guid: 68dad22008f6ff245a54113639327749, type: 3}
+  _coinPrefab: {fileID: 3695644974781022102, guid: c6e98232ff118f547ad1393c3ad2f947, type: 3}
   _spawnPoints:
   - {fileID: 1511263147}
   - {fileID: 350416721}
@@ -574,7 +574,7 @@ MonoBehaviour:
   - {fileID: 825511725}
   - {fileID: 990905747}
   - {fileID: 8137989}
-  _spawnCooldown: 0.5
+  _spawnCooldown: 1
 --- !u!4 &1064291080
 Transform:
   m_ObjectHideFlags: 0
